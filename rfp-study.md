@@ -11,9 +11,9 @@ We would like to build a tool which is student friendly web application where it
 
 * In login of the existing  student users, we will include the two-factor authentication with User id and mobile number. For mobile number authentication we will receive verification code to our mobile after entering the phone number.<br>  
 
-* Upon existing student login, it will have a pop-up to ask to which course he is getting registered to and his schedule.
+* Upon existing student login, it will have a pop-up to upload the schedule.
 
-* In student login in it will display grid view of courses the student registered and on the left side of the page it will display notifications of all the events happening in and around the classes. On the right side the student can find a to-do list and memo functionality which will encourage them to complete task on time. 
+* After student loging in it will display grid view of courses the student registered and on the left side of the page it will display notifications of all the events happening in and around the classes. On the right side the student can find a to-do list and memo functionality which will encourage them to complete task on time. 
 
 * The students can also check their due dates, upcoming events, class schedules in their calendar which would be an option inside the application.
 
