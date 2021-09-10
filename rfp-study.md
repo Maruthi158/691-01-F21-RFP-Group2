@@ -20,3 +20,32 @@ We would like to build a tool which is student friendly web application where it
 * We are providing the chat option inside the application so that students can interact with the Professors as well as students.
 
 * We are providing the additional options for students to change choice of themes according to their choice.
+
+## Functional Requirements:
+
+This tool would be a progressive web application with with authentication and authorization. The following roles are suggested:
+
+* Student User Login
+
+As a Student User,The following are responsibilites to include:
+
+1) New student User must create the user profile to use the application by sign-up option.
+2) Existing student users must login with userid,password and two factor login authentication.
+3) The student users will have a option to upload the schedule of their classes.
+4) This application visualizes the grid view of courses assigned to the student.
+5) This application helps in visualizing the upcoming assignments,events for a specific class.
+6) Student can view to-do notifications and memo functionality of the classes.
+7) Students will provided with chat option to communicate with other students and professors.
+8) Students can select their own choice of themes based on their visualization with the option provided.
+
+ The app must work on:
+
+ * an iPhone SE
+	
+* an Android device
+	
+* a laptop computer
+	
+* an iPad
+
+
