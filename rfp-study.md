@@ -92,3 +92,16 @@ The proposal will specify:
 * Budget
 * Deliverables
 * Risk Assessment
+
+## Evaluation Criteria
+
+The client will validate all the possible scenarios with the below features.
+
+1)User friendly interface.
+
+2)Schedule correctly reflected in calendar.
+
+3)Checking the student can receive the updated notifications.
+
+4)Verification of chat option is properly working and whether the student is able to communicate with professors and students.
+
