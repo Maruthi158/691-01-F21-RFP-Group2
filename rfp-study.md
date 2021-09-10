@@ -105,3 +105,8 @@ The client will validate all the possible scenarios with the below features.
 
 4)Verification of chat option is properly working and whether the student is able to communicate with professors and students.
 
+## Theme/Layout/Mobile First :
+
+<img src="signup.jpg" alt="drawing"  style="border-radius:50%" /> 	
+<img src="signin.png" alt="drawing"  style="border-radius:50%" />  
+
