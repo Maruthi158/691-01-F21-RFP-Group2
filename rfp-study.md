@@ -48,4 +48,25 @@ As a Student User,The following are responsibilites to include:
 	
 * an iPad
 
+## Bidder Qualifications:
+
+Teams submitting RFP bids must be able to:
+
+1.Give details about the project.
+
+2.Before we begin, we will discuss and clarify matters with our acting client.
+
+3.Implement functionality according to the contract's timelines.
+
+4.For collaboration, use professional tools.
+
+5.Use professional project management and tracking software.
+
+6.In person, communicate professionally.
+
+7.Communicate professionally remotely .
+
+## Performance Metrics:
+
+Performance will be assessed based on on-time deliverables without any bugs.
 
