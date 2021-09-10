@@ -76,3 +76,19 @@ Performance will be assessed based on on-time deliverables without any bugs.
 * Module 2: User Interface Design
 * Module 3-6: Execution, Monitoring, and Controling
 * Module 7: Release
+
+## Project Definition and Planning 
+
+Bearcat study buddy will allow students to input classes schedule, and access their courses. The app also provides access to course calendars, To Do items, notifications, and allows to interact with fellow students. 
+
+The proposal will specify:
+* Purpose
+* Overview
+* User Stories
+* Functional Requirements
+* UI Sketches
+* Schedule
+* Scope
+* Budget
+* Deliverables
+* Risk Assessment
