@@ -70,3 +70,9 @@ Teams submitting RFP bids must be able to:
 
 Performance will be assessed based on on-time deliverables without any bugs.
 
+## Schedule:
+
+* Module 1: Initial Planning
+* Module 2: User Interface Design
+* Module 3-6: Execution, Monitoring, and Controling
+* Module 7: Release
