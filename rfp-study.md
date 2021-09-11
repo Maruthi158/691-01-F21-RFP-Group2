@@ -1,7 +1,8 @@
 # RFP - Bearcat Study Buddy
 
 ## Statement of Purpose :
-We would like to build a tool which is student friendly web application where it would help students to have an exact overview of the class tasks, it encourages students to complete all the tasks on time by providing to-do lists as well as memo functionality and it would help in displaying in due date for exams, assignments etc. This application will provide the student calendar visualized for all the tasks for the users. This app even provides us with a flexibility to select his own choice of themes.
+
+There are many applications like a canvas that would help students in uploading the assignments, visualize their grades, and other tasks related to studies. We intend to build a tool that would be a solo place where students would be able to track the upcoming assignments, class tasks in an easy way . This tool allows students to even check for updates in the calendar about upcoming to-do lists, memo functionality. This tool will also provide the flexibility for the students to customize the look of the application based on their own choice of themes. The chat option inside the tool would ease the communication between students and professors.
 
 ## Vision
 
