@@ -18,20 +18,39 @@ We are providing additional options for students to customize their own choice o
 
 ## Functional Requirements:
 
-This tool would be a progressive web application with with authentication and authorization. The following roles are suggested:
+This tool would be a web application with with authentication and authorization. The following roles are suggested:
 
-* Student User Login
+* Student User 
 
-As a Student User,The following are responsibilites to include:
 
-1) New student User must create the user profile to use the application by sign-up option.
-2) Existing student users must login with userid,password and two factor login authentication.
-3) The student users will have a option to upload the schedule of their classes.
-4) This application visualizes the grid view of courses assigned to the student.
-5) This application helps in visualizing the upcoming assignments,events for a specific class.
-6) Student can view to-do notifications and memo functionality of the classes.
-7) Students will provided with chat option to communicate with other students and professors.
-8) Students can select their own choice of themes based on their visualization with the option provided.
+As a Student User, I want to create a user profile:
+
+1) New student Users must create the user profile to use the application by sign-up option.
+2) Existing student users must log in with a user id, password
+3)The existing student users will receive a text code for their mobile to complete the two authentications.
+
+<img src="signup.jpg" alt="drawing"  width= 500 style="border-radius:50%" /> 
+<img src="signin.png" alt="drawing" width= 500  style="border-radius:50%" />  
+
+
+As a Student User, I want to display my courses and to-do lists,memo functionality and my calender:
+
+1) After successful login students will be directed to the page where they can view the list of courses enrolled.
+2) They can view the to-do list for the upcoming tasks to complete tasks on time.
+3) They can view the message of completing tasks by using the feature of memo functionality
+4) Students can view their calender with the upcoming events,tasks they need to fulfill.
+
+As a Student User,I want to Communicate with other students and Professors:
+
+1) After login I will be able to use the chat option provided to communicate with other students.
+2) Using the same chat option I would be able to communicate with my professors to retrieve any help required from them.
+
+As a Student User,I want to choose different themes for my display:
+1) I will be provided with an option to choose different themes based on the options available so I can choose my own choice of themes.
+
+
+
+
 
  The app must work on:
 
@@ -94,14 +113,11 @@ The client will validate all the possible scenarios with the below features.
 
 1)User friendly interface.
 
-2)Schedule correctly reflected in calendar.
+2)Student Schedule correctly reflected in calendar.
 
-3)Checking the student can receive the updated notifications.
+3)Verification of upcoming events and tasks that student can receive the updated notifications.
 
 4)Verification of chat option is properly working and whether the student is able to communicate with professors and students.
 
-## Theme/Layout/Mobile First :
 
-<img src="signup.jpg" alt="drawing"  style="border-radius:50%" /> 	
-<img src="signin.png" alt="drawing"  style="border-radius:50%" />  
 
