@@ -6,21 +6,15 @@ There are many applications like a canvas that would help students in uploading 
 
 ## Vision
 
-* We would like to create the progressive web application in which upon by clicking the application we will be directed into the screen where it will get displayed two options sign up and sign in.
+We would like to create a web application in which upon clicking the application we will be re-directed to the screen where it will display two options sign up and sign in. If we have new students who are trying to use this application for the first time, they need to create the profile newly by clicking sign up. Existing students can log in using the sign-in option.
 
-* If we have new students, they need to create the profile newly by clicking sign up. Existing students can login using sign in option.<br>   
+The existing student users can log in with a user id and password, we will include the two-factor authentication with User id and mobile number. For mobile number authentication we will receive a verification code to our mobile after entering the phone number.
 
-* In login of the existing  student users, we will include the two-factor authentication with User id and mobile number. For mobile number authentication we will receive verification code to our mobile after entering the phone number.<br>  
+Students can view courses they registered for, to-do list, memo functionality which will encourage them to complete a task on time.
 
-* Upon existing student login, it will have a pop-up to upload the schedule.
+We are providing the chat option inside the application so that students can interact with the Professors as well as students.
 
-* After student loging in it will display grid view of courses the student registered and on the left side of the page it will display notifications of all the events happening in and around the classes. On the right side the student can find a to-do list and memo functionality which will encourage them to complete task on time. 
-
-* The students can also check their due dates, upcoming events, class schedules in their calendar which would be an option inside the application.
-
-* We are providing the chat option inside the application so that students can interact with the Professors as well as students.
-
-* We are providing the additional options for students to change choice of themes according to their choice.
+We are providing additional options for students to customize their own choice of themes according to their choice.
 
 ## Functional Requirements:
 
